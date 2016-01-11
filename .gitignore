@@ -1,0 +1,4 @@
+*.sln
+*.suo
+EmulatesWin/bin
+EmulatesWin/obj
